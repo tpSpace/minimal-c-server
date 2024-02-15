@@ -1,4 +1,4 @@
-# Minimal C server
+# Minimal HTTP C server
 
 ## Read the manual
 ```bash
