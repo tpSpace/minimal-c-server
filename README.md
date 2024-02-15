@@ -11,5 +11,6 @@ gcc server.c -o server
 ```bash
 wget localhost:8080/index.html
 ```
+- Better to run it in /tmp directory. 
 
 
